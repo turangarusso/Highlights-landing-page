@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : Magic Search Bar
     description                           : Designed for instantly find match video for team name or competiton.
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : search
     
   - title                                 : Gesture
     description                           : Easy Filter with one tap for competitions.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : sort
 
   - title                                 : Video Live
     description                           : Watch Live Tv matches for free. Show related Statistics of the match, standings and more.
@@ -57,7 +57,7 @@ features                                  :
 
   - title                                 : Social Links
     description                           : Share your favourite goals.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : share
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
