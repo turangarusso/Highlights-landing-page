@@ -35,29 +35,41 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Magic Search Bar
-    description                           : Designed for instantly find match video for team name or competiton.
+  - title                                 : Epic Search Bar
+    description                           : Designed for instantly find match video for team or player name.
     fontawesome_icon_name                 : search
     
   - title                                 : Gesture
     description                           : Easy Filter with one tap for competitions.
     fontawesome_icon_name                 : sort
 
-  - title                                 : Video Live
-    description                           : Watch Live Tv matches for free. Show related Statistics of the match, standings and more.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Live Match
+    description                           : Watch Live Tv matches for free on Youtube.
+    fontawesome_icon_name                 : tv
 
-  - title                                 : Automatic Score Update
+  - title                                 : Live Score
     description                           : Check Live Score of all leagues.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : trophy
 
   - title                                 : Scheduled mathes
-    description                           : Custom calendar with old and next scheduled mathes.
-    fontawesome_icon_name                 : adjust
+    description                           : Custom calendar with old and next scheduled matches.
+    fontawesome_icon_name                 : calendar
 
+  - title                                 : Highlights
+    description                           : Watch your favourite goals and best moments.
+    fontawesome_icon_name                 : play-circle
+
+  - title                                 : Stats
+    description                           : Show related Statistics of the match, standings and more.
+    fontawesome_icon_name                 : chart-simple
+    
   - title                                 : Social Links
     description                           : Share your favourite goals.
     fontawesome_icon_name                 : share
+    
+  - title                                 : Picture in Picture
+    description                           : Watch the highlights of the match while using other apps
+    fontawesome_icon_name                 : square
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
