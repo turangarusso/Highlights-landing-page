@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Magic Search Bar
-    description                           : Designed for instantly find match video for team name, or competiton. Uninque: search the video for player that has scored a goal in the match.
+    description                           : Designed for instantly find match video for team name or competiton.
     fontawesome_icon_name                 : magic
     
   - title                                 : Gesture
