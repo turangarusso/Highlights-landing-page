@@ -62,6 +62,14 @@ features                                  :
   - title                                 : Statistics
     description                           : Show related Statistics of the match, standings and more.
     fontawesome_icon_name                 : info-circle
+    
+  - title                                 : Statistics
+    description                           : Show related Statistics of the match, standings and more.
+    fontawesome_icon_name                 : info-circle
+    
+  - title                                 : Statistics
+    description                           : Show related Statistics of the match, standings and more.
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
