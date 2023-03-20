@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Magic Search Bar
     description                           : Designed for instantly find match video for team name or competiton.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : magnifying-glass
     
   - title                                 : Gesture
     description                           : Easy Filter with one tap for competitions.
