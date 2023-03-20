@@ -7,7 +7,7 @@ ios_app_country                           : us                                  
 
 appstore_link                             : https://apps.apple.com/us/app/highlights/id1670417770 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://apps.apple.com/us/app/highlights/id1670417770  # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :   # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -21,12 +21,12 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Giovanni Mario Russo                                
-your_link                                 : https://emilbaehr.com                     
+your_link                                 : https://github.com/turangarusso                    
 your_city                                 : Naples                                
 email_address                             : ruxo@live.it
 facebook_username                         :                                           
-instagram_username                        : ruxo
-twitter_username                          : ruxo
+instagram_username                        : 
+twitter_username                          : 
 github_username                           : turangarusso
 youtube_username                          :
 
@@ -40,11 +40,11 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Gesture
-    description                           : Easy Filter with one tap for competitions
+    description                           : Easy Filter with one tap for competitions.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Video Live
-    description                           : Watch Live Tv matches for free.
+    description                           : Watch Live Tv matches for free. Show related Statistics of the match, standings and more.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Automatic Score Update
@@ -58,18 +58,6 @@ features                                  :
   - title                                 : Social Links
     description                           : Share your favourite goals.
     fontawesome_icon_name                 : link
-
-  - title                                 : Statistics
-    description                           : Show related Statistics of the match, standings and more.
-    fontawesome_icon_name                 : info-circle
-    
-  - title                                 : Statistics
-    description                           : Show related Statistics of the match, standings and more.
-    fontawesome_icon_name                 : info-circle
-    
-  - title                                 : Statistics
-    description                           : Show related Statistics of the match, standings and more.
-    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
