@@ -61,7 +61,7 @@ features                                  :
 
   - title                                 : Stats
     description                           : Show related Statistics of the match, standings and more.
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : chart-pie
     
   - title                                 : Social Links
     description                           : Share your favourite goals.
